@@ -2,3 +2,4 @@ Jhon Resolusi 2022
 - Belajar bahasa pemrograman Java
 - Belajar bahasa pemrograman Python
 - Belajar Framework Laravel
+- Membuat aplikasi android
